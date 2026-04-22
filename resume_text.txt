@@ -1,0 +1,46 @@
+Subhash Kundurthy
+♂¶ap-¶arker-altBengaluru, Karnataka/envel⌢pesubhashkundurthy@gmail.com♂phone+91 83415 63658/linkedin
+linkedin.com/in/subhashkundurthy
+Career Objective
+AspiringAI and Data Sciencestudent with a strong foundation inMachine Learning, Deep Learning, and Database
+Management Systems. Passionate about designing intelligent, data-driven solutions and developing scalable software
+architectures to solve real-world problems.
+Education
+B.Tech – Artificial Intelligence & Data Science2023 – present
+Amrita Vishwa Vidyapeetam, Bengaluru
+CGPA:7.62/10
+Higher Secondary Education 2021 – 2023
+Sri Chaitanya Junior College, Vijayawada
+Percentage:95.6%
+High School 2019 – 2020
+Viswabharathi English Medium High School, Gudivada
+GPA:10/10
+Projects
+AI-Powered Internship & Placement Tracking SystemAug 2025 – Dec 2025
+•Developed a full-stack web platform to manage internship and placement workflows for students and administrators.
+•Implemented resume parsing to automatically extract skills and match candidates with job requirements.
+•Built a recommendation module to rank and suggest relevant job opportunities based on skill matching.
+•Designed an application tracking dashboard to monitor job applications and update selection status.
+•Technologies:React.js, Node.js, Express.js, Supabase, NLP
+Blockchain-Based Digital Certificate Verification SystemJan 2025 – May 2025
+•Developed a blockchain platform for decentralized certificate verification using QR codes.
+•Integrated SQL backend for secure data storage and cryptographic validation.
+•Ensured data immutability to prevent certificate forgery.
+•Tools:Blockchain, SQL, HTML, CSS, JavaScript
+Web Server Log Analysis using Data AnalyticsJan 2025 – May 2025
+•Analyzed web server log files to understand user behavior and traffic patterns.
+•Extracted features such as IP addresses, request types, status codes, and timestamps.
+•Identified anomalies, peak traffic periods, and error trends.
+•Built visualizations to represent insights from log data.
+•Technologies:Python, Pandas, NumPy, Matplotlib, Regex
+Technical Skills
+Programming:Python (Proficient), Java (Intermediate)
+Libraries/Frameworks:Pandas, NumPy, Matplotlib, Seaborn
+Web Technologies:HTML, CSS, SQL
+Tools:GitHub, AWS, VS Code
+Certifications
+•AWS Cloud Certification – Amazon Web Services (AWS Academy):Gained foundational knowledge of AWS Cloud
+concepts, EC2, S3, Lambda, and IAM.
+Achievements / Extracurriculars
+•Participated in multiple coding contests.
+•Volunteered and coordinated technical and cultural fests at college.
